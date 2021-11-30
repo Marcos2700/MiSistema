@@ -12,4 +12,6 @@ class ClienteModelTest extends TestCase
         $test = new ClienteModel();
         $this->assertNotEmpty($test->listar());
     }
+
+    //public function test
 }

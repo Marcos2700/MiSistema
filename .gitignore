@@ -2,3 +2,4 @@
 MySQL/
 # ignora todos los archivos del directorio app/vendor
 app/vendor/
+/composer.*
